@@ -1,7 +1,7 @@
 def square_array(array)
   y = []
   array.each do | x |
- y << x.square!
+ y << x
 end
-y
+y.square!
 end
