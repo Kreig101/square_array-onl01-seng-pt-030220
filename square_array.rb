@@ -3,4 +3,3 @@ def square_array(array)
   puts  x
 end
 end
-end
