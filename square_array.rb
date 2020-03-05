@@ -1,5 +1,5 @@
 def square_array(array)
-  Y = []
+  y = []
   array.collect do | x |
  Y << x.square!
 end
